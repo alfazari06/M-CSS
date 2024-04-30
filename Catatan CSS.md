@@ -2282,7 +2282,7 @@ Kesimpulan: Program tersebut mengatur tampilan tombol saat tombol sedang dalam k
 
 ### Hasil
 
-![[Catatan CSS/Aset CSS/fb.png]]
+![[fb.png]]
 
 ### Kesimpulan
 
@@ -2347,7 +2347,7 @@ Contoh`column` untuk tata letak vertikal dari atas ke bawah.
 
 ### Hasil
 
-![[Catatan CSS/Aset CSS/ai.png]]
+![Aset CSSai.png]
 
 ### Kesimpulan
 
