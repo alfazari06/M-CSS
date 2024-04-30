@@ -10,7 +10,7 @@ Property Color Digunakan untuk Memberikan Warna kepada Selector P
 
 ## Anatomi CSS
 
-![anatomy2.jpeg](anatomy2.jpeg)
+![anatomy2.jpeg](Aset%20CSS/anatomy2.jpeg)
 
 ### Selector Pintu atau jendela
 Yang ingin di modifikasi ialah Pintu atau jendela 
@@ -23,12 +23,12 @@ Ini memungkinkan Anda untuk menentukan ukuran dari elemen-elemen rumah, seperti 
 
 # Percobaan Pertama
 
-![[selector.jpeg]]
+![selector.jpeg](Aset%20CSS/selector.jpeg)
 ## Before
-![[h.bljr 1 css.png]]
+![h.bljr 1 css.png](Aset%20CSS/h.bljr%201%20css.png)
 
 ## After
-![[h.bljr 2 css.png]]
+![h.bljr 2 css.png](Aset%20CSS/h.bljr%202%20css)
 
 > [!penjelasan]
 >  <`style`> p{ color:red; } <`/style`>: Ini adalah bagian di mana CSS diterapkan secara internal. Pada kode ini, aturan CSS diberikan untuk elemen <`p`>, yang akan membuat teks di dalamnya berwarna merah. <`p`>Welcome CSS!<`/p`>: Ini adalah elemen paragraf pertama dengan teks "Welcome CSS!". Karena itu adalah elemen <`p`>, gaya CSS yang dideklarasikan sebelumnya (warna teks merah) akan diterapkan pada teks di dalamnya. <`P`>Welcome CSS!<`/P`>: Ini adalah elemen paragraf kedua dengan teks yang sama seperti sebelumnya
@@ -99,10 +99,10 @@ button{
 
 ## Color
 ## Before
-![h.percobaan.png](h.percobaan.png)
+![h.percobaan.png](Aset%20CSS/h.percobaan.png)
 
 ## After
-![h.2.png](h.2.png)
+![h.2.png](Aset%20CSS/h.2.png)
 
 
 > [!penjelasan]
@@ -111,11 +111,11 @@ button{
 
 ## Background-color
 ### Before
-![h.2.png](h.2.png)
+![h.2.png](Aset%20CSS/h.2.png)
 
 
 ### After
-![h.3.png](h.3.png)
+![h.3.png](Aset%20CSS/h.3.png)
 
 
 >[!penjelasan]
@@ -125,10 +125,10 @@ button{
 ## Font-size
 
 ### Before
-![h.3.png](h.3.png)
+![h.3.png](Aset%20CSS/h.3.png)
 
 ### After
-![h.font.png](h.font.png)
+![h.font.png](Aset%20CSS/h.font.png)
 
 >[!penjelasan]
 Property font-size dalam CSS digunakan untuk mengatur ukuran teks pada suatu elemen HTML. Property font-size memungkinkan Anda untuk mengontrol ukuran teks secara tepat sesuai kebutuhan desain Anda
@@ -244,7 +244,7 @@ font {
 ```
 
 ### Hasil 
-![h.fontt.png](h.fontt.png)
+![h.fontt.png](Aset%20CSS/h.fontt.png)
 
 ### Kesimpulan
 memungkinkan Pengguna untuk pengontrolan ukuran teks pada elemen HTML.
@@ -267,7 +267,7 @@ Property ini dapat memiliki beberapa nilai, termasuk:
 }
 ```
 ### Hasil
-![h.fontt 2 .png](h.fontt%202%20.png)
+![h.fontt 2 .png](Aset%20CSS/h.fontt%202%20.png)
 ### Kesimpulan
 property font-weight dalam CSS memberikan kontrol atas ketebalan teks pada elemen HTML. Dengan menggunakan font-weight, Pengguna dapat memberikan penekanan visual pada teks, meningkatkan keterbacaan, dan mencapai tampilan yang sesuai dengan desain halaman web pengguna.
 
@@ -291,7 +291,7 @@ Property Font-Style  ini memiliki beberapa nilai, termasuk:
 }
 ```
 ### Hasil
-![h.fontt 3 .png](h.fontt%203%20.png)
+![h.fontt 3 .png](Aset%20CSS/h.fontt%203%20.png)
 ### Kesimpulan
 property font-style dalam CSS memungkinkan Anda mengontrol gaya atau bentuk teks pada elemen HTML. Dengan menggunakan font-style, Anda dapat memberikan gaya tambahan pada teks, meningkatkan estetika dan keterbacaan, serta mencapai tampilan yang sesuai dengan desain halaman web Anda.
 
@@ -311,7 +311,7 @@ Pengguna dapat menyediakan nama famili font sebagai nilai, seperti serif, sans-s
 }
 ```
 ### Hasil
-![h.fontt 4.png](h.fontt%204.png)
+![h.fontt 4.png](Aset%20CSS/h.fontt%204.png)
 ### Kesimpulan
 property font-family dalam CSS memungkinkan Pengguna untuk menentukan jenis font yang akan digunakan untuk menampilkan teks pada elemen HTML.
 
@@ -344,7 +344,7 @@ Ada beberapa Poin penting sebagai Berikut:
 }
 ```
 ### Hasil
-![h.text decoration overline.png](h.text%20decoration%20overline.png)
+![h.text decoration overline.png](Aset%20CSS/h.text%20decoration%20overline.png)
 
 ### Kesimpulan
 text-decoration: overline Digunakan untuk menambahkan garis hirizontal di atas text pada suatu elemen html. Dengan menggunakan text-decoration: overline, Anda dapat memberikan penekanan visual tambahan pada teks atau menyorotnya dengan menambahkan garis di atasnya.
@@ -367,7 +367,7 @@ text-decoration: underline dalam CSS digunakan untuk menambahkan garis bawah pad
 }
 ```
 ### Hasil
-![h.text decoration underline.png](h.text%20decoration%20underline.png)
+![h.text decoration underline.png](Aset%20CSS/h.text%20decoration%20underline.png)
 ### Kesimpulan
 text-decoration: underline dalam CSS digunakan untuk menambahkan garis bawah pada teks di dalam suatu elemen HTML. underline, Anda dapat menambahkan garis bawah pada teks untuk menyorotnya atau memberikan penekanan visual tambahan.
 
@@ -389,7 +389,7 @@ Property text-decoration: line-through dalam CSS digunakan untuk menambahkan gar
 }
 ```
 ### Hasil
-![h.text decoration line through.png](h.text%20decoration%20line%20through.png)
+![h.text decoration line through.png](Aset%20CSS/h.text%20decoration%20line%20through.png)
 ### Kesimpulan
 jadi Dengan menggunakan text-decoration: line-through, Anda dapat menambahkan garis melintang pada teks untuk menandai bahwa teks tersebut sudah tidak relevan atau tidak berlaku lagi.
 
@@ -411,7 +411,7 @@ Property text-decoration: none dalam CSS digunakan untuk menghapus semua dekoras
 }
 ```
 ### Hasil
-![h.text decoration none.png](h.text%20decoration%20none.png)
+![h.text decoration none.png](Aset%20CSS/h.text%20decoration%20none.png)
 ### Kesimpulan
 jadi kesimpulannya adalah text none adalah berfungsi untuk menghilangkan dekorasi teks seperti teks garis bawah (underline) pada hyperlink. Dengan menggunakan perintah 'none' property teks seperti itu akan di hilangkan.
 
@@ -430,7 +430,7 @@ digunakan untuk mengubah semua huruf dalam teks menjadi huruf besar (uppercase).
 }
 ```
 ### Hasil 
-![h.text transform uppercase.png](h.text%20transform%20uppercase.png)
+![h.text transform uppercase.png](Aset%20CSS/h.text%20transform%20uppercase.png)
 ### Kesimpulan
 Jadi, kesimpulannya adalah bahwa penggunaan properti text-transform: uppercase; akan membuat teks ditampilkan dalam huruf besar.
 
@@ -447,7 +447,7 @@ digunakan untuk mengubah semua huruf dalam teks menjadi huruf kecil (lowercase).
 }
 ```
 ### Hasil 
-![h.text transform lowercase.png](h.text%20transform%20lowercase.png)
+![h.text transform lowercase.png](Aset%20CSS/h.text%20transform%20lowercase.png)
 ### Kesimpulan
 Jadi, kesimpulannya adalah bahwa penggunaan properti text-transform: lowercase; akan membuat teks ditampilkan dalam huruf kecil.
 
@@ -464,7 +464,7 @@ Jadi, kesimpulannya adalah bahwa penggunaan properti text-transform: lowercase; 
 }
 ```
 ### Hasil 
-![h.text transform capitalize.png](h.text%20transform%20capitalize.png)
+![h.text transform capitalize.png](Aset%20CSS/h.text%20transform%20capitalize.png)
 ### Kesimpulan
 Jadi, kesimpulannya adalah bahwa penggunaan properti text-transform: capitalize; akan membuat setiap kata dalam teks dimulai dengan huruf besar.
 
@@ -491,7 +491,7 @@ Property ini biasanya digunakan pada elemen seperti p (paragraf) untuk mengatur 
 }
 ```
 ## Hasil 
-![h.text indent.png](h.text%20indent.png)
+![h.text indent.png](Aset%20CSS/h.text%20indent.png)
 ## Kesimpulan 
 digunakan untuk mengatur jarak awal teks dari sisi kiri paragraf atau elemen teks lainnya. Dengan menggunakan nilai absolut atau relatif, property ini memungkinkan pengguna untuk menciptakan efek indentasi pada teks, baik itu pada awal paragraf, dalam daftar, atau dalam situasi khusus seperti hanging indent. Property ini dapat meningkatkan tata letak dan estetika dokumen web dengan memberikan struktur yang lebih jelas pada teks.
 
@@ -516,7 +516,7 @@ Property ini sering digunakan untuk tujuan desain estetika, seperti menambahkan 
 }
 ```
 ## Hasil
-![h.text  spacing.png](h.text%20%20spacing.png)
+![h.text  spacing.png](Aset%20CSS/h.text%20%20spacing.png)
 ## Kesimpulan
 digunakan untuk mengatur jarak antara karakter dalam teks. Dengan menentukan nilai positif atau negatif, pengguna dapat mengendalikan spasi antara huruf-huruf dalam sebuah string teks. Property ini memungkinkan untuk meningkatkan legibilitas teks, mencapai efek desain yang diinginkan, atau menambahkan sentuhan dekoratif pada teks. Dengan menggunakan letter-spacing, desainer dapat menciptakan tata letak yang lebih menarik dan terstruktur dalam hal jarak antar huruf.
 
@@ -539,7 +539,7 @@ Property ini digunakan untuk mengontrol ketinggian baris dalam teks, memengaruhi
 }
 ```
 ## Hasil
-![h.text ling-height.png](h.text%20ling-height.png)
+![h.text ling-height.png](Aset%20CSS/h.text%20ling-height.png)
 ## Kesimpulan
 digunakan untuk mengatur tinggi baris dalam sebuah elemen teks. Dengan menentukan nilai absolut atau relatif, pengguna dapat mengontrol jarak vertikal antara baris teks, yang memengaruhi legibilitas, kepadatan teks, dan tata letak secara keseluruhan. Property ini penting untuk meningkatkan keterbacaan dan estetika teks dalam desain web, serta memastikan bahwa teks terlihat seimbang dan mudah dipahami. Dengan menggunakan line-height, desainer dapat menciptakan tampilan teks yang menarik dan mudah dibaca bagi pengguna.
 
@@ -563,7 +563,7 @@ Penggunaan: Property ini sering digunakan untuk tujuan desain estetika, seperti 
 }
 ```
 ## Hasil
-![h. text word-spacing.png](h.%20text%20word-spacing.png)
+![h. text word-spacing.png](Aset%20CSS/h.%20text%20word-spacing.png)
 ## Kesimpulan
 digunakan untuk mengatur jarak antara kata-kata dalam teks. Dengan menentukan nilai positif atau negatif, pengguna dapat mengendalikan spasi horizontal antara kata-kata dalam sebuah string teks. Property ini memungkinkan untuk meningkatkan tata letak teks, mencapai efek desain yang diinginkan, atau menambahkan sentuhan estetika pada teks. Dengan menggunakan word-spacing, desainer dapat menciptakan tampilan teks yang lebih terbaca dan menarik bagi pengguna.
 
@@ -585,7 +585,7 @@ Property ini menerima nilai berupa URL gambar yang akan digunakan sebagai latar 
 background-image : url("dee.jpeg");
 ```
 ## Hasil
-![h.background image.png](h.background%20image.png)
+![h.background image.png](Aset%20CSS/h.background%20image.png)
 
 ## Kesimpulan
 jadi dalam css property background-image digunakan untuk menambahkan gambar sebagai latar belakang suatu elemen HTML. Dengan menetapkan URL gambar pada property ini, desainer dapat meningkatkan estetika desain web dengan menambahkan elemen visual yang menarik pada latar belakang elemen HTML. Pengaturan tambahan seperti background-size dan background-position dapat digunakan untuk mengontrol tampilan dan posisi gambar latar belakang. Dengan menggunakan background-image, desainer dapat menciptakan desain web yang lebih menarik dan menarik perhatian pengguna.
@@ -622,10 +622,10 @@ background-size: nilai;
 ```
 ## Hasil
 Cover:
-![h.background size cover.png](h.background%20size%20cover.png)
+![h.background size cover.png](Aset%20CSS/h.background%20size%20cover.png)
 
 Contain:
-![h.background size contain.png](h.background%20size%20contain.png)
+![h.background size contain.png](Aset%20CSS/h.background%20size%20contain.png)
 ## Kesimpulan
 property background-size dalam CSS digunakan untuk mengatur ukuran dari gambar latar belakang yang ditetapkan dengan menggunakan background-image. Dengan menetapkan nilai seperti cover atau contain, desainer dapat mengontrol cara gambar latar belakang ditampilkan dan disesuaikan dengan ukuran elemen yang terkait. Ini memungkinkan untuk menciptakan tampilan latar belakang yang sesuai dengan kebutuhan desain, baik dengan membuat gambar mengisi seluruh area latar belakang elemen (cover) atau memasukkan gambar ke dalam area latar belakang elemen sepenuhnya tanpa mengubah aspek rasio (contain). Dengan menggunakan property background-size, desainer dapat mengatur tampilan gambar latar belakang dengan fleksibilitas dan presisi untuk mencapai efek desain yang diinginkan.
 
@@ -659,7 +659,7 @@ background-repeat: nilai;
     }
 ```
 ## Hasil
-![h.background no repeat.png](h.background%20no%20repeat.png)
+![h.background no repeat.png](Aset%20CSS/h.background%20no%20repeat.png)
 
 ## Kesimpulan
 property background-repeat dalam CSS digunakan untuk mengatur apakah gambar latar belakang yang ditetapkan dengan menggunakan background-image akan diulang atau tidak, serta cara bagaimana gambar tersebut diulang jika diaktifkan. Dengan menggunakan nilai seperti repeat, repeat-x, repeat-y, atau no-repeat, desainer dapat mengontrol tampilan ulang gambar latar belakang dalam elemen yang terkait. Ini memungkinkan untuk mencapai efek visual yang diinginkan dalam desain web, baik dengan mengulang gambar secara horizontal dan vertikal, atau hanya menampilkan gambar sekali tanpa diulang. Dengan menggunakan property background-repeat, desainer dapat memperkaya tampilan latar belakang elemen HTML sesuai dengan kebutuhan desain mereka.
@@ -682,7 +682,7 @@ property background-repeat dalam CSS digunakan untuk mengatur apakah gambar lata
 ```
 
 ## Hasil
-![h.background attachment fixet.png](h.background%20attachment%20fixet.png)
+![h.background attachment fixet.png](Aset%20CSS/h.background%20attachment%20fixet.png)
 ## Penjelasan 
 Property background-attachment dalam CSS digunakan untuk mengatur apakah gambar latar belakang yang ditetapkan dengan menggunakan background-image akan tetap diam atau mengikuti guliran (scrolling) ketika halaman digulir. Property ini memberikan kontrol terhadap perilaku posisi gambar latar belakang relatif terhadap jendela tampilan pengguna.
 
@@ -753,7 +753,7 @@ Beikut Beberapa nilai yang ada di Background-position
 ### Penjelasan
 Top menempatkan Gambar latar belakang kita di bagian atas bawah elemen, elemen yang di maksud adalah property border yang membungkus gambar kita.
 ### Hasil
-![h.background position top.png](h.background%20position%20top.png)
+![h.background position top.png](Aset%20CSS/h.background%20position%20top.png)
 ### Kesimpulan
 Cocok untuk menempatkan gambar latar belakang di bagian atas elemen, baik secara horizontal maupun vertikal.
 
@@ -769,7 +769,7 @@ Ideal untuk menempatkan gambar latar belakang di bagian bawah elemen, baik secar
 ### Penjelasan
 Top menempatkan Gambar latar belakang kita di bagian kiri bawah elemen, elemen yang di maksud adalah property border yang membungkus gambar kita.
 ### Hasil
-![h.background position left.png](h.background%20position%20left.png)
+![h.background position left.png](Aset%20CSS/h.background%20position%20left.png)
 ### Kesimpulan
 Berguna untuk menempatkan gambar latar belakang di bagian kiri elemen, baik secara horizontal maupun vertikal.
 
@@ -777,7 +777,7 @@ Berguna untuk menempatkan gambar latar belakang di bagian kiri elemen, baik seca
 ### Penjelasan
 Top menempatkan Gambar latar belakang kita di bagian kanan bawah elemen, elemen yang di maksud adalah property border yang membungkus gambar kita.
 ### Hasil
-![h.background position right.png](h.background%20position%20right.png)
+![h.background position right.png](Aset%20CSS/h.background%20position%20right.png)
 ### Kesimpulan
 Berguna untuk menempatkan gambar latar belakang di bagian kanan elemen, baik secara horizontal maupun vertikal.
 
@@ -785,7 +785,7 @@ Berguna untuk menempatkan gambar latar belakang di bagian kanan elemen, baik sec
 ### Penjelasan
 Top menempatkan Gambar latar belakang kita di bagian tengah bawah elemen, elemen yang di maksud adalah property border yang membungkus gambar kita.
 ### Hasil
-![h.background position center.png](h.background%20position%20center.png)
+![h.background position center.png](Aset%20CSS/h.background%20position%20center.png)
 ### Kesimpulan
 Cocok untuk menempatkan gambar latar belakang di tengah elemen, baik secara horizontal maupun vertikal.
 
@@ -870,7 +870,7 @@ button{
     border-width: 5px;
 ```
 #### Hasil
-![h.margin bottom (1).png](h.margin%20bottom%20(1).png)
+![h.margin bottom (1).png](Aset%20CSS/h.margin%20bottom%20(1).png)
 
 #### kesimpulan
 Properti border-widthdalam CSS digunakan untuk menentukan lebar (ketebalan) dari batas (border) pada suatu elemen HTML. Properti ini bisa memiliki nilai tunggal atau empat nilai terpisah, yang masing-masing mengatur batas lebar pada sisi atas, kanan, bawah, dan kiri dari elemen. Dengan menggunakan properti ini, Anda dapat mengontrol tampilan elemen dengan menentukan seberapa tebal batasnya pada setiap sisinya.
@@ -898,7 +898,7 @@ button{
     border-color: #d8ff49;
 ```
 #### Hasil
-![h.border color.jpg](h.border%20color.jpg)
+![h.border color.jpg](Aset%20CSS/h.border%20color.jpg)
 
 #### Kesimpulan
 Border color adalah properti CSS yang digunakan untuk menentukan warna dari batas (border) sebuah elemen HTML. Ini memungkinkan pengguna untuk menyesuaikan tampilan batas elemen sesuai dengan kebutuhan desain web menggunakan nama warna, kode warna, atau nilai RGB.
@@ -930,7 +930,7 @@ button{
     border-style: solid;
 ```
 #### Hasil
-![h.border style .jpg](h.border%20style%20.jpg)
+![h.border style .jpg](Aset%20CSS/h.border%20style%20.jpg)
 
 #### Kesimpulan
 kesimpulannya adalah bahwa program ini digunakan untuk membuat garis tepi solid pada elemen HTML.
@@ -964,7 +964,7 @@ button{
     border-radius: 100px;
 ```
 #### Hasil
-![h. border radius.png](h.%20border%20radius.png)
+![h. border radius.png](Aset%20CSS/h.%20border%20radius.png)
 #### Kesimpulan
 Property border-radius adalah properti CSS yang digunakan untuk mengatur sudut-sudut dari sebuah elemen HTML yang memiliki border, sehingga membuatnya terlihat lebih bulat atau melengkung. Properti ini memungkinkan pengguna untuk menciptakan tampilan elemen yang lebih estetis dan menarik dalam desain halaman web. Anda dapat menentukan nilai border-radius dalam piksel, persen, atau menggunakan nilai yang relatif terhadap ukuran elemen tersebut.
 
@@ -1067,7 +1067,7 @@ button{
    margin-top: 300px;
 ```
 #### Hasil
-![h.margin top.png](h.margin%20top.png)
+![h.margin top.png](Aset%20CSS/h.margin%20top.png)
 
 #### Kesimpulan
 Margin-top adalah properti CSS yang digunakan untuk menentukan jarak vertikal dari bagian atas sebuah elemen terhadap elemen di atasnya dalam halaman web. Properti ini memungkinkan pengaturan tata letak yang fleksibel antara elemen-elemen, dengan nilai yang dapat diatur dalam piksel, persen, atau unit lainnya sesuai kebutuhan desain.
@@ -1105,7 +1105,7 @@ button{
    margin-right: 300px;
 ```
 #### Hasil
-![h.margin right.png](h.margin%20right.png)
+![h.margin right.png](Aset%20CSS/h.margin%20right.png)
 #### Kesimpulan
 Margin-right adalah properti CSS yang digunakan untuk menentukan jarak antara sisi kanan sebuah elemen dan elemen terdekat lainnya dalam hal tata letak halaman web. Ini memungkinkan pengaturan spasi yang tepat antara elemen-elemen, memberikan fleksibilitas dalam desain.
 
@@ -1147,7 +1147,7 @@ button{
 }
 ```
 #### Hasil
-![h.margin bottom (2).png](h.margin%20bottom%20(2).png)
+![h.margin bottom (2).png](Aset%20CSS/h.margin%20bottom%20(2).png)
 
 #### Kesimpulan
 Margin-left adalah properti CSS yang digunakan untuk menentukan jarak atau spasi dari sisi kiri sebuah elemen terhadap elemen lainnya yang berdekatan di sebelah kirinya dalam halaman web. Properti ini memberikan fleksibilitas dalam menata tata letak elemen dengan mengatur jaraknya menggunakan nilai dalam piksel, persen, atau unit lainnya sesuai kebutuhan desain. Dengan menggunakan margin-left, Anda dapat mencapai tata letak yang sesuai dengan desain yang diinginkan, memastikan tampilan halaman web yang konsisten dan mudah dibaca.
@@ -1191,7 +1191,7 @@ button{
 }
 ```
 #### Hasil
-![h.margin bottom (2).png](h.margin%20bottom%20(2).png)
+![h.margin bottom (2).png](Aset%20CSS/h.margin%20bottom%20(2).png)
 
 #### Kesimpulan
 Property margin-bottom adalah properti CSS yang digunakan untuk menentukan jarak atau spasi antara bagian bawah sebuah elemen dengan elemen lainnya yang berada di bawahnya dalam halaman web. Properti ini memberikan fleksibilitas dalam mengatur tata letak elemen di halaman web, dengan nilai jarak yang dapat diatur dalam piksel, persen, atau unit lainnya sesuai kebutuhan desain. Dengan menggunakan margin-bottom, Anda dapat mencapai tata letak yang sesuai dengan desain yang diinginkan, memastikan tampilan halaman web yang konsisten dan mudah dibaca.
@@ -1304,7 +1304,7 @@ button{
 }
 ```
 #### Hasil
-![h. padding top.png](h.%20padding%20top.png)
+![h. padding top.png](Aset%20CSS/h.%20padding%20top.png)
 
 #### Kesimpulan
 Property padding-top adalah properti CSS yang digunakan untuk menambahkan ruang kosong di bagian atas sebuah elemen, antara konten elemen tersebut dengan batas atas (top border) dari elemen tersebut. Properti ini memberikan fleksibilitas dalam desain tata letak elemen di dalam halaman web dengan mengatur ruang kosong menggunakan nilai dalam piksel, persen, atau unit lainnya sesuai kebutuhan desain. Dengan menggunakan padding-top, Anda dapat mencapai tata letak yang sesuai dengan desain yang diinginkan, memastikan tampilan halaman web yang lebih terstruktur dan teratur.
@@ -1340,7 +1340,7 @@ button{
     padding-bottom: 20px;
 ```
 #### Hasil
-![h.padding bottom.png](h.padding%20bottom.png)
+![h.padding bottom.png](Aset%20CSS/h.padding%20bottom.png)
 
 #### Kesimpulan
 Property padding-bottom adalah properti CSS yang digunakan untuk menambahkan ruang kosong di bagian bawah sebuah elemen, antara konten elemen tersebut dengan batas bawah (bottom border) dari elemen tersebut. Properti ini memberikan fleksibilitas dalam desain tata letak elemen di dalam halaman web dengan mengatur ruang kosong menggunakan nilai dalam piksel, persen, atau unit lainnya sesuai kebutuhan desain. Dengan menggunakan padding-bottom, Anda dapat mencapai tata letak yang sesuai dengan desain yang diinginkan, memastikan tampilan halaman web yang lebih terstruktur dan teratur.
@@ -1391,7 +1391,7 @@ button{
 }
 ```
 #### Hasil
-![h. padding right.png](h.%20padding%20right.png)
+![h. padding right.png](Aset%20CSS/h.%20padding%20right.png)
 
 #### Kesimpulan
 Property padding-right adalah properti CSS yang digunakan untuk menambahkan ruang kosong di bagian kanan sebuah elemen, antara konten elemen tersebut dengan batas kanan (right border) dari elemen tersebut. Properti ini memberikan fleksibilitas dalam desain tata letak elemen di dalam halaman web dengan mengatur ruang kosong menggunakan nilai dalam piksel, persen, atau unit lainnya sesuai kebutuhan desain. Dengan menggunakan padding-right, Anda dapat mencapai tata letak yang sesuai dengan desain yang diinginkan, memastikan tampilan halaman web yang lebih terstruktur dan teratur.
@@ -1442,7 +1442,7 @@ button{
 }
 ```
 #### Hasil
-![h. padding left.png](h.%20padding%20left.png)
+![h. padding left.png](Aset%20CSS/h.%20padding%20left.png)
 
 #### Kesimpulan
 Property padding-left adalah properti CSS yang digunakan untuk menambahkan ruang kosong di bagian kiri sebuah elemen, antara konten elemen tersebut dengan batas kiri (left border) dari elemen tersebut. Properti ini memberikan fleksibilitas dalam desain tata letak elemen di dalam halaman web dengan mengatur ruang kosong menggunakan nilai dalam piksel, persen, atau unit lainnya sesuai kebutuhan desain. Dengan menggunakan padding-left, Anda dapat mencapai tata letak yang sesuai dengan desain yang diinginkan, memastikan tampilan halaman web yang lebih terstruktur dan teratur.
@@ -1689,7 +1689,7 @@ button {
 
 ```
 ## Hasil pengerjaan
-![h.boxmodel.png](h.boxmodel.png)
+![h.boxmodel.png](Aset%20CSS/h.boxmodel.png)
 # Pseudo-clesses
 
 ## Hover 
@@ -1707,7 +1707,7 @@ Pernyataan kode program tersebut menggunakan pseudo-class :hover untuk menargetk
 ```
 
 ### Hasil
-![hover.png](hover.png)
+![hover.png](Aset%20CSS/hover.png)
 ### Kesimpulan
 Program tersebut akan mengubah warna teks tombol menjadi magenta saat kursor diarahkan ke atas (hover) pada tombol tersebut. Ini memberikan umpan balik visual kepada pengguna bahwa tombol tersebut bisa diklik atau interaktif. Misalnya, jika Anda memiliki tombol HTML seperti <button>Klik!</button>, saat kursor diarahkan ke atas tombol tersebut, warna teksnya akan berubah menjadi magenta.
 
@@ -1726,7 +1726,7 @@ button:active {
 ```
 
 ### Hasil
-![active.png](active.png)
+![active.png](Aset%20CSS/active.png)
 ### Kesimpulan
 Program tersebut akan mengubah warna teks tombol menjadi biru saat tombol tersebut sedang dalam keadaan aktif, yaitu saat tombol ditekan oleh pengguna. Ini memberikan umpan balik visual kepada pengguna bahwa tindakan yang mereka lakukan sedang berlangsung. Misalnya, jika Anda memiliki tombol HTML seperti `<button>Klik!</button>`, saat tombol tersebut ditekan oleh pengguna, warna teksnya akan berubah menjadi biru.
 
@@ -1748,7 +1748,7 @@ Pernyataan tersebut menggunakan pseudo-class :link untuk menargetkan perilaku sa
 ```
 
 ### Hasil
-![link.png](link.png)
+![link.png](Aset%20CSS/link.png)
 
 
 #### Kesimpulan
@@ -1769,7 +1769,7 @@ Pernyataan tersebut menggunakan pseudo-class :visited untuk menargetkan perilaku
 ```
 
 ### Hasil
-![button.visited.png](button.visited.png)
+![button.visited.png](Aset%20CSS/button.visited.png)
 
 ### Kesimpulan
 Program tersebut akan mengubah warna teks tombol menjadi hijau saat tombol tersebut telah dikunjungi oleh pengguna. Ini memberikan umpan balik visual kepada pengguna bahwa mereka telah mengunjungi tombol tersebut. Misalnya, jika Anda memiliki tombol HTML seperti <button>Klik!</button> yang telah dikunjungi oleh pengguna sebelumnya, warna teksnya akan berubah menjadi hijau.
@@ -1811,10 +1811,10 @@ button:hover {
 ### Hasil
 
 #### Before
-![h.trasition before.png](h.trasition%20before.png)
+![h.trasition before.png](Aset%20CSS/h.trasition%20before.png)
 
 #### After
-![h.trasition after.png](h.trasition%20after.png)
+![h.trasition after.png](Aset%20CSS/h.trasition%20after.png)
 ### Kesimpulan
 Kesimpulan: Program tersebut akan mengubah tampilan tombol saat kursor diarahkan ke atasnya. Tombol akan memiliki latar belakang merah, lebar 200 piksel, dan teks berwarna putih. Perubahan-perubahan tersebut akan ditampilkan dengan efek transisi yang berlangsung selama 0.3 detik dan dimulai dengan kecepatan yang lambat. Misalnya, jika Anda memiliki tombol HTML seperti <button>Click Me</button>, saat kursor diarahkan ke atas tombol tersebut, tampilannya akan berubah sesuai dengan aturan CSS di atas.
 ## Transition-delay
@@ -1881,7 +1881,7 @@ button:hover {
 ```
   
 ### Hasil
-![Transition-property.jpeg](Transition-property.jpeg)
+![Transition-property.jpeg](Aset%20CSS/Transition-property.jpeg)
 
 ### Kesimpulan
 Kesimpulan: Program tersebut mengatur tampilan tombol saat kursor diarahkan ke atasnya dengan efek transisi. Tombol akan berubah warna latar belakang menjadi merah, lebar tombol menjadi 200 piksel, dan warna teks tombol menjadi putih. Transisi hanya diterapkan pada perubahan lebar tombol, dengan lebar tombol yang berubah menjadi 300 piksel selama 2 detik. Ini memberikan efek visual yang halus dan menarik saat tombol di-hover oleh pengguna.
@@ -1908,7 +1908,7 @@ button:hover {
 ```
 
 ### Hasil
-![Transition-timing-function.jpeg](AsetTransition-timing-function.jpeg)
+![Transition-timing-function.jpeg](Aset%20CSS/Transition-timing-function.jpeg)
 ### Kesimpulan
 Kesimpulan: Program tersebut mengatur tampilan tombol saat kursor diarahkan ke atasnya dengan efek transisi. Tombol akan berubah warna latar belakang menjadi merah, lebar tombol menjadi 200 piksel, dan warna teks tombol menjadi putih. Efek transisi akan memiliki durasi 2 detik dan akan dimulai dengan kecepatan yang lambat. Ini memberikan efek visual yang halus dan menarik saat tombol di-hover oleh pengguna.
 
@@ -2551,7 +2551,7 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
 ```
 
 ### Hasil
-![fleckbox.png](fleckbox.png)
+![fleckbox.png](Aset%20CSS/fleckbox.png)
 
 ### Kesimpulan
 
@@ -3104,7 +3104,7 @@ body {
 - `.item3 img`: Mengatur gaya untuk gambar di dalam item 3.
 
 ### Hasil
-![possition.png](possition.png)
+![possition.png](Aset%20CSS/possition.png)
 
 ## Kesimpulan
 
