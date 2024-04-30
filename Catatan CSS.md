@@ -1,6 +1,6 @@
 # Anatomi CSS
 
-![Anatomy.jpeg](Anatomy.jpeg)
+![Anatomy.jpeg](Aset%20CSS/Anatomy.jpeg)
 
 ## Selector
 Selector P digunakan untuk menentukan elemen HTML mana yang akan diberikan gaya atau diubah tampilannya.
