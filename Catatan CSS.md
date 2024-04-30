@@ -28,7 +28,7 @@ Ini memungkinkan Anda untuk menentukan ukuran dari elemen-elemen rumah, seperti 
 ![h.bljr 1 css.png](Aset%20CSS/h.bljr%201%20css.png)
 
 ## After
-![h.bljr 2 css.png](Aset%20CSS/h.bljr%202%20css)
+![h.bljr 2 css.png](Aset%20CSS/h.bljr%202%20css.png)
 
 > [!penjelasan]
 >  <`style`> p{ color:red; } <`/style`>: Ini adalah bagian di mana CSS diterapkan secara internal. Pada kode ini, aturan CSS diberikan untuk elemen <`p`>, yang akan membuat teks di dalamnya berwarna merah. <`p`>Welcome CSS!<`/p`>: Ini adalah elemen paragraf pertama dengan teks "Welcome CSS!". Karena itu adalah elemen <`p`>, gaya CSS yang dideklarasikan sebelumnya (warna teks merah) akan diterapkan pada teks di dalamnya. <`P`>Welcome CSS!<`/P`>: Ini adalah elemen paragraf kedua dengan teks yang sama seperti sebelumnya
