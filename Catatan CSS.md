@@ -2347,7 +2347,7 @@ Contoh`column` untuk tata letak vertikal dari atas ke bawah.
 
 ### Hasil
 
-![Aset CSSai.png]
+![Aset CSSai.png](Aset%20CSS/ai.png)
 
 ### Kesimpulan
 
@@ -2380,7 +2380,7 @@ Contoh`center` untuk menempatkan flex items di tengah-tengah sumbu silang.`flex-
 ```
 
 ### Hasil
-![[Catatan CSS/Aset CSS/jsc.png]]
+![Catatan CSS/Aset CSS/jsc.png](Aset%20CSS/jsc.png)
 
 ### Kesimpulan
 
