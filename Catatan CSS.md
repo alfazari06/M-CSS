@@ -1835,16 +1835,16 @@ button:hover {
     transition-duration: 2s;
 
     transition-delay: 1s;
-    ```
+ ```
 
 ### Hasil
 
 #### Before
-![h.trasition-delay before.png](h.trasition-delay%20before.png)
+![h.trasition-delay before.png](Aset%20CSS/h.trasition-delay%20before.png)
 
 
 #### After
-![h.trasition-delay after.png](h.trasition-delay%20after.png)
+![h.trasition-delay after.png](Aset%20CSS/h.trasition-delay%20after.png)
 
 ### Kesimpulan
 Program tersebut akan membuat efek transisi pada tombol saat kursor diarahkan ke atasnya. Tombol akan memiliki latar belakang merah, lebar 200 piksel, dan teks berwarna putih. Perubahan tersebut akan ditampilkan dengan efek transisi yang dimulai setelah 1 detik penundaan dan berlangsung selama 2 detik. Misalnya, saat kursor diarahkan ke atas tombol, perubahan tampilan tombol akan dimulai setelah 1 detik dan akan berlangsung selama 2 detik dengan transisi yang halus.
@@ -1857,7 +1857,7 @@ css
 transition-duration: 2s;
 
 ### Hasil
-![duration.png](duration.png)
+![duration.png](Aset%20CSS/duration.png)
 
 ### Kesimpulan
 Kesimpulan: Program tersebut akan membuat efek transisi pada elemen-elemen yang menerapkan transisi untuk memiliki durasi selama 2 detik. Ini berarti perubahan yang terjadi pada properti CSS yang ditentukan untuk transisi akan berlangsung secara halus selama 2 detik ketika terjadi perubahan pada elemen tersebut
@@ -2153,7 +2153,7 @@ button:active {
 
 ```
 ### Hasil
-![[scarlet.jpeg]]
+![scarlet.jpeg](Aset%20CSS/scarlet.jpeg)
 
 
 ### Kesimpulan
@@ -2173,7 +2173,7 @@ button:active {
 
 ```
 ### Hasil
-![[scarlett.jpeg]]
+![scarlett.jpeg](Aset%20CSS/scarlett.jpeg)
 ### Kesimpulan
 *Kesimpulan*: Program tersebut mengatur tampilan tombol saat tombol sedang dalam keadaan aktif, yaitu saat tombol sedang ditekan oleh pengguna. Efek transformasi scaleX() digunakan untuk memperkecil lebar tombol menjadi setengah dari lebar aslinya saat tombol ditekan, memberikan efek visual yang menarik dan memberi umpan balik kepada pengguna bahwa tombol telah ditekan.
 ## Transform rotate
@@ -2188,7 +2188,7 @@ button:active {
 }
 ```
 ### Hasil
-![[rolate.jpeg]]
+![rolate.jpeg](Aset%20CSS/rolate.jpeg)
 ### Kesimpulan
 Kesimpulan: Program tersebut mengatur tampilan tombol saat tombol sedang dalam keadaan aktif, yaitu saat tombol sedang ditekan oleh pengguna. Efek transformasi rotate() digunakan untuk memutar tombol sebesar 45 derajat saat tombol ditekan, memberikan efek visual yang menarik dan memberi umpan balik kepada pengguna bahwa tombol telah ditekan.
 ## Transform skewX
@@ -2203,7 +2203,7 @@ button:active {
 }
 ```
 ### Hasil
-![[skewX.jpeg]]
+![skewX.jpeg](Aset%20CSS/skewX.jpeg)
 ### Kesimpulan
 Kesimpulan: Program tersebut mengatur tampilan tombol saat tombol sedang dalam keadaan aktif, yaitu saat tombol sedang ditekan oleh pengguna. Efek transformasi skewx() digunakan untuk memiringkan tombol sebesar -25 derajat secara horizontal saat tombol ditekan, memberikan efek visual yang menarik dan memberi umpan balik kepada pengguna bahwa tombol telah ditekan.
 ## Transform skew
@@ -2220,7 +2220,7 @@ button:active {
 }
 ```
 ### Hasil
-![[skew.jpeg]]
+![skew.jpeg](Aset%20CSS/skew.jpeg)
 ### Kesimpulan
 Kesimpulan: Program tersebut mengatur tampilan tombol saat tombol sedang dalam keadaan aktif, yaitu saat tombol sedang ditekan oleh pengguna. Efek transformasi skew() digunakan untuk memiringkan tombol sebesar 20 derajat secara horizontal dan 5 derajat secara vertikal saat tombol ditekan, memberikan efek visual yang menarik dan memberi umpan balik kepada pengguna bahwa tombol telah ditekan.
 ## Transform translate
@@ -2236,7 +2236,7 @@ button:active {
 }
 
 ### Hasil
-![[Translet.jpeg]]
+![Translet.jpeg](Aset%20CSS/Translet.jpeg)
 ### Kesimpulan
 *Kesimpulan*: Program tersebut mengatur tampilan tombol saat tombol sedang dalam keadaan aktif, yaitu saat tombol sedang ditekan oleh pengguna. Efek transformasi translate() digunakan untuk memindahkan posisi tombol sejauh 5 piksel ke kanan dan 12 piksel ke bawah saat tombol ditekan, memberikan efek visual yang menarik dan memberi umpan balik kepada pengguna bahwa tombol telah ditekan.
 ## Transform matrix
@@ -2257,7 +2257,7 @@ button:active {
 }
 
 ### Hasil
-![[matrix.jpeg]]
+![matrix.jpeg](Aset%20CSS/matrix.jpeg)
 ### Kesimpulan
 Kesimpulan: Program tersebut mengatur tampilan tombol saat tombol sedang dalam keadaan aktif, yaitu saat tombol sedang ditekan oleh pengguna. Efek transformasi matriks kompleks diberikan untuk memberikan perubahan yang lebih rumit pada tombol saat tombol ditekan. Hal ini dapat memberikan efek visual yang menarik dan unik tergantung pada nilai matriks yang diberikan.
  
@@ -2282,7 +2282,7 @@ Kesimpulan: Program tersebut mengatur tampilan tombol saat tombol sedang dalam k
 
 ### Hasil
 
-![[fb.png]]
+![fb.png](Aset%20CSS/fb.png)
 
 ### Kesimpulan
 
@@ -2311,7 +2311,7 @@ Kesimpulan: Program tersebut mengatur tampilan tombol saat tombol sedang dalam k
 ```
 
 ### Hasil
-![Aset CSS/fd.png](Aset%20CSS%20pt2/fd.png)
+![fd.png](Aset%20CSS%20pt2/fd.png)
 
 ### Kesimpulan
 
@@ -2347,7 +2347,7 @@ Contoh`column` untuk tata letak vertikal dari atas ke bawah.
 
 ### Hasil
 
-![Aset CSSai.png](Aset%20CSS/ai.png)
+![ai.png](Aset%20CSS/ai.png)
 
 ### Kesimpulan
 
@@ -2380,7 +2380,7 @@ Contoh`center` untuk menempatkan flex items di tengah-tengah sumbu silang.`flex-
 ```
 
 ### Hasil
-![Catatan CSS/Aset CSS/jsc.png](Aset%20CSS/jsc.png)
+![jsc.png](Aset%20CSS/jsc.png)
 
 ### Kesimpulan
 
@@ -2608,7 +2608,7 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
 ```
 
 ### Hasil
-![Aset CSS pt2/prl.png](Aset%20CSS%20pt2/prl.png)
+![prl.png](Aset%20CSS/prl.png)
 
 ### Kesimpulan
 
@@ -2669,7 +2669,7 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
 ```
 
 ### Hasil
-![Aset CSS pt2/pal.png](Aset%20CSS%20pt2/pal.png)
+![pal.png](Aset%20CSS/pal.png)
 
 ### Kesimpulan
 
@@ -2712,7 +2712,7 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
 ```
 
 ### Hasil
-![Aset CSS pt2/px.png](Aset%20CSS%20pt2/px.png)
+![px.png](Aset%20CSS%20pt2/px.png)
 
 ### Kesimpulan
 
@@ -2773,7 +2773,7 @@ body {
 ```
 
 ### Hasil
-![Aset CSS pt2/pstk.png](Aset%20CSS%20pt2/pstk.png)
+![pstk.png](Aset%20CSS%20/pstk.png)
 ### Kesimpulan
 `position: sticky`, elemen akan seperti posisi relatif sampai jarak scroll mencapai nilai tertentu. elemen akan tetap berada pada posisi yang telah ditentukan saat jarak scroll mencapai nilai tertentu, sambil tetap mengikuti pergeseran scroll di bawahnya.
 
