@@ -2311,7 +2311,7 @@ Kesimpulan: Program tersebut mengatur tampilan tombol saat tombol sedang dalam k
 ```
 
 ### Hasil
-![fd.png](Aset%20CSS%20pt2/fd.png)
+![fd.png](Aset%20CSS/fd.png)
 
 ### Kesimpulan
 
@@ -2712,7 +2712,7 @@ Contoh`flex-start` untuk menempatkan flex items di awal (mulai) sumbu utama.`fle
 ```
 
 ### Hasil
-![px.png](Aset%20CSS%20pt2/px.png)
+![px.png](Aset%20CSS/px.png)
 
 ### Kesimpulan
 
@@ -2773,7 +2773,7 @@ body {
 ```
 
 ### Hasil
-![pstk.png](Aset%20CSS%20/pstk.png)
+![pstk.png](Aset%20CSS/pstk.png)
 ### Kesimpulan
 `position: sticky`, elemen akan seperti posisi relatif sampai jarak scroll mencapai nilai tertentu. elemen akan tetap berada pada posisi yang telah ditentukan saat jarak scroll mencapai nilai tertentu, sambil tetap mengikuti pergeseran scroll di bawahnya.
 
