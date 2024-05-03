@@ -2234,7 +2234,6 @@ button:active {
     transform: translate(5px, 12px);
 
 }
-
 ### Hasil
 ![Translet.jpeg](Aset%20CSS/Translet.jpeg)
 ### Kesimpulan
