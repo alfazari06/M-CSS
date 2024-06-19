@@ -101,16 +101,18 @@ button{
 ``` 
 
 ## Color
-## Before
+### Before
 ![h.percobaan.png](Aset%20CSS/h.percobaan.png)
 
-## After
+### After
 ![h.2.png](Aset%20CSS/h.2.png)
 
 
-> [!penjelasan]
-> Property color dalam CSS digunakan untuk mengatur warna teks dari suatu elemen HTML. color Berfungsi Untuk Memberikan Warna  Teks Klik aku. Perbedaannya terlihat jelas sebelum di berikan property color pada teks klik aku itu belum memiliki warna.
+### Penjelasan
+Property color dalam CSS digunakan untuk mengatur warna teks dari suatu elemen HTML. color Berfungsi Untuk Memberikan Warna  Teks Klik aku. Perbedaannya terlihat jelas sebelum di berikan property color pada teks klik aku itu belum memiliki warna.
 
+### Kesimpulan
+Warna text akan di ubah menjadi biru mudah (aqua)
 
 ## Background-color
 ### Before
@@ -121,9 +123,11 @@ button{
 ![h.3.png](Aset%20CSS/h.3.png)
 
 
->[!penjelasan]
->Property background-color dalam CSS digunakan untuk mengatur warna latar belakang dari suatu elemen HTML.background-color juga dapat digunakan bersamaan dengan property background-image untuk memberikan gambar latar belakang bersamaan dengan warna latar belakang.
+### Penjelasan
+Property background-color dalam CSS digunakan untuk mengatur warna latar belakang dari suatu elemen HTML.background-color juga dapat digunakan bersamaan dengan property background-image untuk memberikan gambar latar belakang bersamaan dengan warna latar belakang.
 
+### kesimpulan
+background-color dari elemen html akan diubah menjadi warna #d8ff49;
 
 ## Font-size
 
@@ -133,9 +137,11 @@ button{
 ### After
 ![h.font.png](Aset%20CSS/h.font.png)
 
->[!penjelasan]
+### Penjelasan
 Property font-size dalam CSS digunakan untuk mengatur ukuran teks pada suatu elemen HTML. Property font-size memungkinkan Anda untuk mengontrol ukuran teks secara tepat sesuai kebutuhan desain Anda
 
+### Kesimpulan
+Ukuran font akan di ubah menjadi 20 pixel
 
 
 # Deklarasi CSS
